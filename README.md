@@ -1,3 +1,6 @@
+This repository will have changes specific to my work. I aim to formatting changes to begin with and later a cool idea.
+
+
 #Current Status
 GPU Ocelot project is not longer actively maintained. The latest system requirement and installation guide are available at [https://github.com/gtcasl/gpuocelot/wiki/Installation](https://github.com/gtcasl/gpuocelot/wiki/Installation)
 
